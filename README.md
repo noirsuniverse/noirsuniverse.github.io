@@ -15,4 +15,4 @@
 ## ⌨️ Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [PixelMorph](noirsuniverse/Pixelmorph) | A app to resize and change image type. | Xcode |
+| [PixelMorph](https://github.com/noirsuniverse/Pixelmorph) | A app to resize and change image type. | Xcode |
