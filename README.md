@@ -1,13 +1,18 @@
-# Hi, I'm [Your Name]! 👋
-- 🔭 **Current Project**: [Project Name + Link]
-- 🌱 **Learning**: React, Python, etc.
-- 📫 **Contact**: [your@email.com](mailto:your@email.com)
+# Hi, I'm NoirsUniverse! 🔲
+- 🔭 **Current Project**: [PixelMorph]
+- 🌱 **Learning**: Python, Xcode, Java.
+- 📫 **Contact**: [mohamed.abdulllahi12@gmail.com](mailto:mohamed.abdulllahi12@gmail.com)
 
 ## 🛠 Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?logo=javascript)
+![Python](https://img.shields.io/badge/-Python-white?logo=python)
+![Java](https://img.shields.io/badge/-Java-gray?logo=java)
+![Xcode](https://img.shields.io/badge/-Xcode-white?logo=xcode)
+![HTML](https://img.shields.io/badge/-HTML-gray?logo=html)
+![CSS](https://img.shields.io/badge/-CSS-gray?logo=css)
 
-## 🚀 Projects
+
+## ⌨️ Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Project 1](link) | A cool app. | Python, Flask |
+| [PixelMorph](link) | A app to resize and change image type. | Xcode |
