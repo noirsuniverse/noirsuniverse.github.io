@@ -1,5 +1,5 @@
 # Hi, I'm NoirsUniverse! 🔲
-- 🔭 **Current Project**: [PixelMorph]
+- 🔭 **Current Project**: [LunaLog]
 - 🌱 **Learning**: Python, Swift, Java.
 - 📫 **Contact**: [mohamed.abdulllahi12@gmail.com](mailto:mohamed.abdulllahi12@gmail.com)
 
@@ -16,3 +16,4 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [PixelMorph](https://github.com/noirsuniverse/Pixelmorph) | A app to resize and change image type. | Swift |
+| [LunaLog](https://github.com/noirsuniverse/LunaLog) | A journal app that allows users to express using words and visuals. | Java |
